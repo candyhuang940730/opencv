@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="95bcff1b-fc34-4618-ad1a-11632ef0c594" name="Changes" comment="" />
+    <list default="true" id="95bcff1b-fc34-4618-ad1a-11632ef0c594" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/opencv.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/opencv.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +17,85 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;candyhuang940730&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/candyhuang940730/opencv.git&quot;,
+    &quot;accountId&quot;: &quot;a1348d81-9328-4ff5-ac5c-06b646762f42&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000005225" />
+      <entry key="MS500" value="1.0041349258132266" />
+      <entry key="S2" value="1.5908708628050463" />
+      <entry key="S5" value="2.8299865502167894" />
+      <entry key="S10" value="3.698109913632603" />
+      <entry key="S30" value="4.5699493287097805" />
+      <entry key="S60" value="5.426131268756009" />
+      <entry key="M2" value="8.070755548261964" />
+      <entry key="M5" value="15.45978349587605" />
+      <entry key="M10" value="21.339345505930645" />
+      <entry key="M15" value="24.037933892163856" />
+      <entry key="M30" value="27.226723314922964" />
+      <entry key="H1" value="29.033720117086688" />
+      <entry key="H2" value="29.99606067543919" />
+      <entry key="H4" value="30.492714925941847" />
+      <entry key="D1" value="30.914704213273165" />
+      <entry key="W1" value="30.9877964303624" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.072258226918333E-121" />
+      <entry key="S2" value="7.444995317901692E-31" />
+      <entry key="S5" value="8.886807493176376E-13" />
+      <entry key="S10" value="9.42748896628033E-7" />
+      <entry key="S30" value="0.01044818094791032" />
+      <entry key="S60" value="0.14187080233858612" />
+      <entry key="M2" value="0.6710709214854539" />
+      <entry key="M5" value="1.9074404765531208" />
+      <entry key="M10" value="2.7509456054005015" />
+      <entry key="M15" value="3.113819843274574" />
+      <entry key="M30" value="3.5276828870990053" />
+      <entry key="H1" value="3.7560262097638106" />
+      <entry key="H2" value="3.8759917782803504" />
+      <entry key="H4" value="3.9374818569465906" />
+      <entry key="D1" value="3.9895081651985267" />
+      <entry key="W1" value="3.998499389780807" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.827362732825617E-11" />
+      <entry key="MS500" value="0.009941540521239984" />
+      <entry key="S2" value="0.7735858451835944" />
+      <entry key="S5" value="2.2990026880822607" />
+      <entry key="S10" value="3.37383632870743" />
+      <entry key="S30" value="4.4549395989629526" />
+      <entry key="S60" value="5.499622097588749" />
+      <entry key="M2" value="8.698333348093563" />
+      <entry key="M5" value="17.339210252663868" />
+      <entry key="M10" value="24.072141786263415" />
+      <entry key="M15" value="27.13840073874335" />
+      <entry key="M30" value="30.74699394745249" />
+      <entry key="H1" value="32.785832776106744" />
+      <entry key="H2" value="33.870040587850255" />
+      <entry key="H4" value="34.42917665275349" />
+      <entry key="D1" value="34.904040347931144" />
+      <entry key="W1" value="34.986271194665854" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3EO44xQH6HCIweMZiVeSPOxzRE9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,12 +103,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,11 +136,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780036095998</updated>
-      <workItem from="1780036097027" duration="1000" />
+      <workItem from="1780036097027" duration="2535000" />
+      <workItem from="1780042445307" duration="3330000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/opencv$main.coverage" NAME="main Coverage Results" MODIFIED="1780045236154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
