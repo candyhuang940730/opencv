@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95bcff1b-fc34-4618-ad1a-11632ef0c594" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video.py" afterDir="false" />
+    <list default="true" id="95bcff1b-fc34-4618-ad1a-11632ef0c594" name="Changes" comment="test2">
+      <change afterPath="$PROJECT_DIR$/song.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video.py" beforeDir="false" afterPath="$PROJECT_DIR$/video.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,61 +39,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000188212" />
-      <entry key="MS500" value="1.0142164693057363" />
-      <entry key="S2" value="1.7727457345694848" />
-      <entry key="S5" value="2.740909032225205" />
-      <entry key="S10" value="3.284730765592221" />
-      <entry key="S30" value="3.8335671058912815" />
-      <entry key="S60" value="4.795009466892632" />
-      <entry key="M2" value="7.606280077257462" />
-      <entry key="M5" value="13.46295421123521" />
-      <entry key="M10" value="17.32930344212102" />
-      <entry key="M15" value="18.991625787221036" />
-      <entry key="M30" value="21.46581504149859" />
-      <entry key="H1" value="26.76496459356167" />
-      <entry key="H2" value="36.49284433022993" />
-      <entry key="H4" value="46.6908629015548" />
-      <entry key="D1" value="60.43840062628105" />
-      <entry key="W1" value="63.47154076067232" />
+      <entry key="MS100" value="1.362090625906301E-53" />
+      <entry key="MS500" value="3.8950419779909336E-11" />
+      <entry key="S2" value="0.005390153268357278" />
+      <entry key="S5" value="0.23822598275134838" />
+      <entry key="S10" value="0.8507390115795034" />
+      <entry key="S30" value="2.409095333922476" />
+      <entry key="S60" value="3.880550557845181" />
+      <entry key="M2" value="6.417732069698115" />
+      <entry key="M5" value="13.027357632232144" />
+      <entry key="M10" value="18.74900862697969" />
+      <entry key="M15" value="21.512052451809037" />
+      <entry key="M30" value="24.92747310165232" />
+      <entry key="H1" value="28.098528359991047" />
+      <entry key="H2" value="35.81857536038904" />
+      <entry key="H4" value="50.201329206886086" />
+      <entry key="D1" value="82.12377441147942" />
+      <entry key="W1" value="91.31486487898431" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.639295016777631E-116" />
-      <entry key="S2" value="1.3812042594663836E-29" />
-      <entry key="S5" value="2.884756309317524E-12" />
-      <entry key="S10" value="1.853415958957712E-6" />
-      <entry key="S30" value="0.017419601743812855" />
-      <entry key="S60" value="0.1920568517782251" />
-      <entry key="M2" value="0.7339104450639945" />
-      <entry key="M5" value="1.9064358115929871" />
-      <entry key="M10" value="2.728979635560824" />
-      <entry key="M15" value="3.0920795182302623" />
-      <entry key="M30" value="3.5555258596530135" />
-      <entry key="H1" value="4.164757454625468" />
-      <entry key="H2" value="5.1640668151628" />
-      <entry key="H4" value="6.209154379947713" />
-      <entry key="D1" value="7.62980584631355" />
-      <entry key="W1" value="7.945020072641094" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000018706874922" />
+      <entry key="S2" value="1.036982844429768" />
+      <entry key="S5" value="1.2674238422181876" />
+      <entry key="S10" value="1.5171303920411001" />
+      <entry key="S30" value="1.8032212074491283" />
+      <entry key="S60" value="1.9256882102525115" />
+      <entry key="M2" value="2.211101013389812" />
+      <entry key="M5" value="3.077264762675878" />
+      <entry key="M10" value="3.794797437095883" />
+      <entry key="M15" value="4.128754727739421" />
+      <entry key="M30" value="4.534146617944831" />
+      <entry key="H1" value="4.949277961142695" />
+      <entry key="H2" value="5.9955915897198855" />
+      <entry key="H4" value="7.830311295304035" />
+      <entry key="D1" value="11.707607540457708" />
+      <entry key="W1" value="12.800392486603217" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.4119729187526308E-4" />
-      <entry key="MS500" value="0.17792881661135132" />
-      <entry key="S2" value="1.289051854475265" />
-      <entry key="S5" value="2.4534226499484455" />
-      <entry key="S10" value="3.1150104422118865" />
-      <entry key="S30" value="3.7859563093301953" />
-      <entry key="S60" value="4.945288015869732" />
-      <entry key="M2" value="8.302921480854499" />
-      <entry key="M5" value="15.339581624960804" />
-      <entry key="M10" value="20.038235581211005" />
-      <entry key="M15" value="22.06884734253189" />
-      <entry key="M30" value="25.012963759539065" />
-      <entry key="H1" value="30.92490330945881" />
-      <entry key="H2" value="41.65398322644888" />
-      <entry key="H4" value="52.89828240964899" />
-      <entry key="D1" value="68.06785601707173" />
-      <entry key="W1" value="71.41650882611351" />
+      <entry key="MS100" value="1.3358077407968008E-4" />
+      <entry key="MS500" value="0.1679381109361124" />
+      <entry key="S2" value="0.6654180329030654" />
+      <entry key="S5" value="1.2723121248806781" />
+      <entry key="S10" value="2.2000469944000787" />
+      <entry key="S30" value="4.132120627628429" />
+      <entry key="S60" value="5.759844954157288" />
+      <entry key="M2" value="8.597022415031667" />
+      <entry key="M5" value="16.079566592737123" />
+      <entry key="M10" value="22.525571257007062" />
+      <entry key="M15" value="25.626789266790375" />
+      <entry key="M30" value="29.453452123643878" />
+      <entry key="H1" value="33.04317240758883" />
+      <entry key="H2" value="41.81123793103532" />
+      <entry key="H4" value="58.029662104222005" />
+      <entry key="D1" value="93.83087509026622" />
+      <entry key="W1" value="104.11517788835855" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -114,6 +113,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Run",
     "Python.photo.executor": "Run",
+    "Python.tutorial.executor": "Run",
+    "Python.video.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -122,6 +123,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/py/影像辨識/opencv",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -132,6 +134,43 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\py\影像辨識\opencv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="opencv" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.video" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -147,7 +186,10 @@
       <option name="presentableId" value="Default" />
       <updated>1780036095998</updated>
       <workItem from="1780036097027" duration="2535000" />
-      <workItem from="1780042445307" duration="8837000" />
+      <workItem from="1780042445307" duration="8903000" />
+      <workItem from="1780137670319" duration="2580000" />
+      <workItem from="1780396293723" duration="426000" />
+      <workItem from="1780639885988" duration="1402000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -157,7 +199,23 @@
       <option name="project" value="LOCAL" />
       <updated>1780046503893</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test2">
+      <option name="closed" value="true" />
+      <created>1780071700726</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780071700726</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test2">
+      <option name="closed" value="true" />
+      <created>1780071720228</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780071720228</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,10 +234,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/opencv$main.coverage" NAME="main Coverage Results" MODIFIED="1780056374714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/opencv$video.coverage" NAME="video Coverage Results" MODIFIED="1780138450367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv$photo.coverage" NAME="photo Coverage Results" MODIFIED="1780056416898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
