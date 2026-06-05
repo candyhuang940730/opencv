@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95bcff1b-fc34-4618-ad1a-11632ef0c594" name="Changes" comment="test2">
-      <change afterPath="$PROJECT_DIR$/song.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video.py" beforeDir="false" afterPath="$PROJECT_DIR$/video.py" afterDir="false" />
+    <list default="true" id="95bcff1b-fc34-4618-ad1a-11632ef0c594" name="Changes" comment="video practice">
+      <change beforePath="$PROJECT_DIR$/tutorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +28,12 @@
     &quot;assignee&quot;: &quot;candyhuang940730&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/candyhuang940730/opencv.git&quot;,
-    &quot;accountId&quot;: &quot;a1348d81-9328-4ff5-ac5c-06b646762f42&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/candyhuang940730/opencv.git",
+    "accountId": "ac427be0-f707-4b72-9680-b7f62a9b0ba2"
   }
-}</component>
+}]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.362090625906301E-53" />
@@ -189,7 +186,7 @@
       <workItem from="1780042445307" duration="8903000" />
       <workItem from="1780137670319" duration="2580000" />
       <workItem from="1780396293723" duration="426000" />
-      <workItem from="1780639885988" duration="1402000" />
+      <workItem from="1780639885988" duration="3412000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -215,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780071720228</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="video practice">
+      <option name="closed" value="true" />
+      <created>1780641423533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780641423533</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,11 +240,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test2" />
+    <MESSAGE value="video practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="video practice" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/opencv$main.coverage" NAME="main Coverage Results" MODIFIED="1780056374714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/opencv$video.coverage" NAME="video Coverage Results" MODIFIED="1780138450367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/opencv$video.coverage" NAME="video Coverage Results" MODIFIED="1780641300581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/opencv$tutorial.coverage" NAME="tutorial Coverage Results" MODIFIED="1780644960277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv$photo.coverage" NAME="photo Coverage Results" MODIFIED="1780056416898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
