@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95bcff1b-fc34-4618-ad1a-11632ef0c594" name="Changes" comment="picture cut">
-      <change afterPath="$PROJECT_DIR$/face.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/haarcascade_eye.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/haarcascade_frontalface_default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smile.py" beforeDir="false" afterPath="$PROJECT_DIR$/smile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,66 +34,66 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/candyhuang940730/opencv.git&quot;,
-    &quot;accountId&quot;: &quot;ac427be0-f707-4b72-9680-b7f62a9b0ba2&quot;
+    &quot;accountId&quot;: &quot;ab4bc6cf-18f5-4324-9796-00fcd01987ac&quot;
   }
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.362090625906301E-53" />
-      <entry key="MS500" value="3.8950419779909336E-11" />
-      <entry key="S2" value="0.005390153268357278" />
-      <entry key="S5" value="0.23822598275134838" />
-      <entry key="S10" value="0.8507390115795034" />
-      <entry key="S30" value="2.409095333922476" />
-      <entry key="S60" value="3.880550557845181" />
-      <entry key="M2" value="6.417732069698115" />
-      <entry key="M5" value="13.027357632232144" />
-      <entry key="M10" value="18.74900862697969" />
-      <entry key="M15" value="21.512052451809037" />
-      <entry key="M30" value="24.92747310165232" />
-      <entry key="H1" value="28.098528359991047" />
-      <entry key="H2" value="35.81857536038904" />
-      <entry key="H4" value="50.201329206886086" />
-      <entry key="D1" value="82.12377441147942" />
-      <entry key="W1" value="91.31486487898431" />
+      <entry key="MS100" value="1.381564802240141" />
+      <entry key="MS500" value="1.8264897580729662" />
+      <entry key="S2" value="2.2980865015942094" />
+      <entry key="S5" value="3.2173449996123984" />
+      <entry key="S10" value="5.138075841444503" />
+      <entry key="S30" value="11.045597168480434" />
+      <entry key="S60" value="15.109216741083076" />
+      <entry key="M2" value="19.38009537074018" />
+      <entry key="M5" value="27.25507238615335" />
+      <entry key="M10" value="33.62941905474085" />
+      <entry key="M15" value="36.6906598560263" />
+      <entry key="M30" value="40.47043362870148" />
+      <entry key="H1" value="43.8488954677861" />
+      <entry key="H2" value="51.66868420793355" />
+      <entry key="H4" value="66.10312909207536" />
+      <entry key="D1" value="98.09881063749808" />
+      <entry key="W1" value="107.31094501212412" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000018706874922" />
-      <entry key="S2" value="1.036982844429768" />
-      <entry key="S5" value="1.2674238422181876" />
-      <entry key="S10" value="1.5171303920411001" />
-      <entry key="S30" value="1.8032212074491283" />
-      <entry key="S60" value="1.9256882102525115" />
-      <entry key="M2" value="2.211101013389812" />
-      <entry key="M5" value="3.077264762675878" />
-      <entry key="M10" value="3.794797437095883" />
-      <entry key="M15" value="4.128754727739421" />
-      <entry key="M30" value="4.534146617944831" />
-      <entry key="H1" value="4.949277961142695" />
-      <entry key="H2" value="5.9955915897198855" />
-      <entry key="H4" value="7.830311295304035" />
-      <entry key="D1" value="11.707607540457708" />
-      <entry key="W1" value="12.800392486603217" />
+      <entry key="MS100" value="1.1445159620262003E-101" />
+      <entry key="MS500" value="6.482241146353273E-21" />
+      <entry key="S2" value="9.304706192288858E-6" />
+      <entry key="S5" value="0.012136523738824437" />
+      <entry key="S10" value="0.14845988746663344" />
+      <entry key="S30" value="0.8309554602175405" />
+      <entry key="S60" value="1.3072249889806833" />
+      <entry key="M2" value="1.8217583488305809" />
+      <entry key="M5" value="2.8478541119325538" />
+      <entry key="M10" value="3.650606607906917" />
+      <entry key="M15" value="4.023494160196671" />
+      <entry key="M30" value="4.4759755465182804" />
+      <entry key="H1" value="4.917426962483639" />
+      <entry key="H2" value="5.976268184086288" />
+      <entry key="H4" value="7.817682817346524" />
+      <entry key="D1" value="11.704458480584996" />
+      <entry key="W1" value="12.79990057385551" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3358077407968008E-4" />
-      <entry key="MS500" value="0.1679381109361124" />
-      <entry key="S2" value="0.6654180329030654" />
-      <entry key="S5" value="1.2723121248806781" />
-      <entry key="S10" value="2.2000469944000787" />
-      <entry key="S30" value="4.132120627628429" />
-      <entry key="S60" value="5.759844954157288" />
-      <entry key="M2" value="8.597022415031667" />
-      <entry key="M5" value="16.079566592737123" />
-      <entry key="M10" value="22.525571257007062" />
-      <entry key="M15" value="25.626789266790375" />
-      <entry key="M30" value="29.453452123643878" />
-      <entry key="H1" value="33.04317240758883" />
-      <entry key="H2" value="41.81123793103532" />
-      <entry key="H4" value="58.029662104222005" />
-      <entry key="D1" value="93.83087509026622" />
-      <entry key="W1" value="104.11517788835855" />
+      <entry key="MS100" value="1.1019183369687435" />
+      <entry key="MS500" value="1.718008799904298" />
+      <entry key="S2" value="2.266097059203351" />
+      <entry key="S5" value="3.2132049404899443" />
+      <entry key="S10" value="5.261437289900415" />
+      <entry key="S30" value="11.834845535224671" />
+      <entry key="S60" value="16.38204140522082" />
+      <entry key="M2" value="21.174017035007562" />
+      <entry key="M5" value="30.079039251578514" />
+      <entry key="M10" value="37.26212536295712" />
+      <entry key="M15" value="40.7002525993681" />
+      <entry key="M30" value="44.93822492310798" />
+      <entry key="H1" value="48.76165736429209" />
+      <entry key="H2" value="57.64200226260667" />
+      <entry key="H4" value="73.91882141106862" />
+      <entry key="D1" value="109.80275984202129" />
+      <entry key="W1" value="120.11076574736155" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -107,37 +108,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.face.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.photo.executor": "Run",
-    "Python.smile.executor": "Run",
-    "Python.tutorial.executor": "Run",
-    "Python.video.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/py/影像辨識/opencv",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.face.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.photo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tutorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.video.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/py/影像辨識/opencv&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\py\opencv" />
       <recent name="C:\Users\user\Desktop\py\影像辨識\opencv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\py\opencv\.venv\Lib\site-packages\cv2\data" />
     </key>
   </component>
   <component name="RunManager">
@@ -175,7 +181,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
       </set>
     </attachedChunks>
   </component>
@@ -192,6 +198,9 @@
       <workItem from="1780396293723" duration="426000" />
       <workItem from="1780639885988" duration="3519000" />
       <workItem from="1780645186632" duration="1236000" />
+      <workItem from="1783664646300" duration="1085000" />
+      <workItem from="1783784046732" duration="446000" />
+      <workItem from="1783905650769" duration="2656000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -258,11 +267,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="picture cut" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/opencv$smile.coverage" NAME="smile Coverage Results" MODIFIED="1780646400801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/opencv$smile.coverage" NAME="smile Coverage Results" MODIFIED="1783910917532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv$main.coverage" NAME="main Coverage Results" MODIFIED="1780056374714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv$tutorial.coverage" NAME="tutorial Coverage Results" MODIFIED="1780644960277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv$video.coverage" NAME="video Coverage Results" MODIFIED="1780645232642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/opencv$face.coverage" NAME="face Coverage Results" MODIFIED="1780645627959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/opencv$face.coverage" NAME="face Coverage Results" MODIFIED="1783784468442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/opencv$photo.coverage" NAME="photo Coverage Results" MODIFIED="1780056416898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

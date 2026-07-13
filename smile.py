@@ -42,18 +42,27 @@ while True:
     # 另外指定 detector_backend='opencv' 確保它使用剛才下載的 xml
     try:
         bgr_img = cv2.cvtColor(img, cv2.COLOR_BGRA2BGR)
+
+        # 這裡多加一個 actions=['emotion'] 確保只跑情緒，加快速度
         predictions = DeepFace.analyze(bgr_img, actions=['emotion'], detector_backend='opencv', enforce_detection=False)
 
-        # DeepFace 回傳的是 list，取第一張臉 [0]
-        emotion_data = predictions[0]['emotion']
-        print(f"Happy: {emotion_data['happy']:.2f}, Neutral: {emotion_data['neutral']:.2f}")
+        if predictions and len(predictions) > 0:
+            emotion_data = predictions[0]['emotion']
+            # 💡 把這行印出來，看看你的電腦抓到的數值是多少
+            print(f"真實微笑數值: {emotion_data['happy']:.2f}% | 中性數值: {emotion_data['neutral']:.2f}%")
 
-        if emotion_data['happy'] > 30.0:  # DeepFace 的數值通常是 0~100 %
-            happy += 1
+            # 💡 放寬門檻：有時候微微笑只有 5%~10%，我們把門檻從 30 降到 10.0
+            if emotion_data['happy'] > 10.0:
+                happy += 1
+            else:
+                happy = 0
         else:
             happy = 0
+
     except Exception as e:
         happy = 0
+        # 💡 這行非常重要！如果程式底層死掉了，它會把原因印在終端機上
+        print("偵測發生錯誤，原因:", e)
 
     # 觸發拍照條件
     if happy == 1 or key == 32:  # 剛開始微笑或按下空白鍵
